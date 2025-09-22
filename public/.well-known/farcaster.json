@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Morpho Pulse",
+    "subtitle": "Built with Zara",
+    "description": "Morpho Pulse is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app",
+    "splashImageUrl": "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app/image.png",
+    "tagline": "Morpho Pulse",
+    "screenshotUrls": [
+      "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app/screenshot.png",
+      "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://3899a2e3149c43c8ac2e5d7432560f4c-bt7o.vercel.app/api/webhook"
+  }
+}
